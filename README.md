@@ -8,9 +8,9 @@ In the home page, you can see all heroes or read about this page.
 
 In the Heroes page, you can see every heroe as a card design.
 
-![HeroesPage](https://i.ibb.co/jzKVt74/Heroes-Page.png)
+![HeroesPage](https://i.ibb.co/hfpjY4f/Heroes-Page.png)
 
-![HeroesPageTwo](https://i.ibb.co/rKP9JPK/Heroes-Page2.png)
+![HeroesPageTwo](https://i.ibb.co/XbzRP9D/Heroes-Page2.png)
 
 If you choice a heroe, you can see the description about him. There is also a button that takes you back to heroes page. (The little bat means the heroe belongs to DC, if it is from Marvel then you see a little spider-man. I added it as a joke).
 
