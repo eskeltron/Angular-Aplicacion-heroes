@@ -1,27 +1,31 @@
-# Spa
+# Angular-Aplicacion-heroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+This is my first application in Angular. This app is about heroes and each one of them are stored in the root of the app. I used bootstrap for the app design.
 
-## Development server
+In the home page, you can see all heroes or read about this page.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+![HomePage](https://i.ibb.co/4TC9RQs/Home.png)
 
-## Code scaffolding
+In the Heroes page, you can see every heroe as a card design.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![HeroesPage](https://i.ibb.co/jzKVt74/Heroes-Page.png)
 
-## Build
+![HeroesPageTwo](https://i.ibb.co/rKP9JPK/Heroes-Page2.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+If you choice a heroe, you can see the description about him. There is also a button that takes you back to heroes page. (The little bat means the heroe belongs to DC, if it is from Marvel then you see a little spider-man. I added it as a joke).
 
-## Running unit tests
+![HeroeCard](https://i.ibb.co/vmsHTgW/Heroe-Card.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+This app have the funcionality of searching heroes. For each letter you are writting it starts to search.
 
-## Running end-to-end tests
+![HeroeSearching](https://i.ibb.co/p1pKwBC/Searching.png)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+If you are searching for a heroe that doesn't exist then you will have the next screen.
 
-## Further help
+![HeroeSearchingNotFound](https://i.ibb.co/ZHJNbVQ/searching-Not-Found.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+In About page, there is test text.
+
+![About](https://i.ibb.co/QdjFBwK/About-Page.png)
+
+If you want to run this app, first download the repository and then you need to install ANGULAR-CLI. Once you have ANGULAR-CLI, in the root of project, run the next command "ng serve -o". 
